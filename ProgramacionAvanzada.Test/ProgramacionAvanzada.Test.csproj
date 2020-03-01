@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PA.Covariance\PA.Covariance.csproj" />
     <ProjectReference Include="..\PA.Delegates\PA.Delegates.csproj" />
     <ProjectReference Include="..\PA.Events\PA.Events.csproj" />
     <ProjectReference Include="..\PA.LambdaExpressions\PA.LambdaExpressions.csproj" />
