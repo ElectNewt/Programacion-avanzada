@@ -44,7 +44,7 @@ namespace ProgramacionAvanzada.Test
 
 
             var accionJEfe = new Action<Jefe>(a => Console.WriteLine("Preparar un meeting"));
-            Ejemplo.RealizarAccionBecario(accionJEfe);
+           //No deja compilar al ser jefe: Ejemplo.RealizarAccionBecario(accionJEfe);
 
             var accionEmpleado = new Action<Empleado>(a => Console.WriteLine("trabaja"));
             Ejemplo.RealizarAccionBecario(accionEmpleado);

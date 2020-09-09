@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.Events", "..\PA.Events\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.LambdaExpressions", "..\PA.LambdaExpressions\PA.LambdaExpressions.csproj", "{B26827CE-EEC8-4571-95A4-EB32D1A4484E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA.Covariance", "..\PA.Covariance\PA.Covariance.csproj", "{CF120E7D-CB92-451D-9099-A6309BD05EBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.Covariance", "..\PA.Covariance\PA.Covariance.csproj", "{CF120E7D-CB92-451D-9099-A6309BD05EBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.EjIDisposable", "..\PA.IDisposable\PA.EjIDisposable.csproj", "{254EC877-9CB5-4EFB-B741-F039B761DBA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CF120E7D-CB92-451D-9099-A6309BD05EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF120E7D-CB92-451D-9099-A6309BD05EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF120E7D-CB92-451D-9099-A6309BD05EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
