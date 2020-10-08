@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.Covariance", "..\PA.Cova
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PA.EjIDisposable", "..\PA.IDisposable\PA.EjIDisposable.csproj", "{254EC877-9CB5-4EFB-B741-F039B761DBA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA.Yield", "..\PA.Yield\PA.Yield.csproj", "{EEF95786-7DD6-4811-92D9-C7EB28AB30F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{254EC877-9CB5-4EFB-B741-F039B761DBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF95786-7DD6-4811-92D9-C7EB28AB30F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF95786-7DD6-4811-92D9-C7EB28AB30F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF95786-7DD6-4811-92D9-C7EB28AB30F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF95786-7DD6-4811-92D9-C7EB28AB30F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

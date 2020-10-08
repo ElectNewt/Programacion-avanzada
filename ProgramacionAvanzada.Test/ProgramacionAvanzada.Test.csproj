@@ -20,6 +20,7 @@
     <ProjectReference Include="..\PA.Events\PA.Events.csproj" />
     <ProjectReference Include="..\PA.IDisposable\PA.EjIDisposable.csproj" />
     <ProjectReference Include="..\PA.LambdaExpressions\PA.LambdaExpressions.csproj" />
+    <ProjectReference Include="..\PA.Yield\PA.Yield.csproj" />
   </ItemGroup>
 
 </Project>
