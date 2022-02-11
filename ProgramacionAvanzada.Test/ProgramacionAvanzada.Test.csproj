@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PA.Comparar\PA.Comparar.csproj" />
     <ProjectReference Include="..\PA.Covariance\PA.Covariance.csproj" />
     <ProjectReference Include="..\PA.Delegates\PA.Delegates.csproj" />
     <ProjectReference Include="..\PA.Events\PA.Events.csproj" />
