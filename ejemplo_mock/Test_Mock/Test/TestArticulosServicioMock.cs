@@ -8,7 +8,7 @@ using System;
 namespace Test
 {
     [TestClass]
-    public class TestArticulosServicio
+    public class TestArticulosServicioMock
     {
         [TestMethod]
         public void TestMethod1()
@@ -34,6 +34,7 @@ namespace Test
                 Id = 1,
                 Titulo = titulo
             });
+           
 
             ArticulosServicio servicio = new ArticulosServicio(articuloRepo.Object, autorRepo.Object);
 
