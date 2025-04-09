@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleChannels", "ExampleChannels\ExampleChannels.csproj", "{4B1CB69B-C391-4309-A02E-6BC5966D4E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1CB69B-C391-4309-A02E-6BC5966D4E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1CB69B-C391-4309-A02E-6BC5966D4E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1CB69B-C391-4309-A02E-6BC5966D4E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1CB69B-C391-4309-A02E-6BC5966D4E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
