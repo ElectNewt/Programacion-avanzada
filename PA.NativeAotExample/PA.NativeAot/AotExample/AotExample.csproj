@@ -12,7 +12,7 @@
     <ItemGroup>
       <PackageReference Include="Dapper" Version="2.1.28" />
       <PackageReference Include="Dapper.AOT" Version="1.0.31" />
-      <PackageReference Include="MySqlConnector" Version="2.3.3" />
+      <PackageReference Include="MySqlConnector" Version="2.6.1" />
     </ItemGroup>
 
 </Project>
